@@ -100,8 +100,6 @@ public class PixelTest {
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(PixelTest::new);
-        // https://www.google.com/search?q=SwingUtilities.invokeLater
-        // https://www.javamex.com/tutorials/threads/invokelater.shtml
-        // https://www.google.com/search?q=java+double+colon
+
     }
 }
